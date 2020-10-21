@@ -2,7 +2,7 @@
 
 Machine Learning is an introductory course into the topic, offered by Stanford University through Coursera, taught by Andrew Ng.
 
-This repository contains all programming assignments and projects written in MATLAB/Octave and in Python*, in fulfillment of the course.
+This repository contains all programming assignments and projects written in MATLAB/Octave and Python* with PyTorch, in fulfillment of the course.
 
 *Octave 5.2.0 and Python 3.9.0.
 
