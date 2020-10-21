@@ -14,4 +14,10 @@ This repository contains all programming assignments and projects written in MAT
 <h3>Certificate</h3>
 
 <h3>References</h3>
-<a href="https://www.coursera.org/learn/machine-learning/">Machine Learning Course</a>
+<ul>
+  <li><a href="https://www.coursera.org/learn/machine-learning/">Machine Learning Course</a></li>
+  <li><a href="https://www.python.org/doc/">Python Documentation</a></li>
+  <li><a href="https://pytorch.org/docs/stable/index.html">PyTorch Documentation</a></li>
+</ul>
+
+
